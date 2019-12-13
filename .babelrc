@@ -1,0 +1,13 @@
+{
+  "presets" : [
+    ["@babel/preset-env",
+      {
+        //按需使用配置，包会变小
+        "useBuiltIns":"usage",
+        "targets":{
+          "chrome":"67"
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,139 @@
+@import "../../assets/css/reset.css";
+$topHei: 0.8rem;
+$navHei:.83rem;
+$timeLineLeft:-4%;
+
+.main{
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background:rgba(243,243,243,1);
+}
+.top{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height:$topHei;
+  background-color: #FDC937;
+  display: flex;
+  align-items: center;
+  z-index:99;
+  box-shadow:0 6px 10px 0 rgba(182,182,182,0.13);
+  img{
+    width:0.21rem;
+    height:0.38rem;
+    margin-left: 0.2rem;
+  }
+  span{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size:0.4rem;
+    color: rgb(255, 255, 255);
+  }
+}
+.nav{
+  position: fixed;
+  top: $topHei;
+  width: 100%;
+  background-color: whitesmoke;
+  height: $navHei;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow:0 6px 6px 0 rgba(182,182,182,0.3);
+  p{
+    display: block;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    line-height: $navHei;
+    color: #B8B8B8;
+    &.active{
+      color: #2A2E33;
+      border-bottom:1px solid rgba(253,201,55,1);
+    }
+  }
+
+}
+.tabCardBox{
+  position: absolute;
+  width: 100%;
+  top: $topHei + $navHei;
+  padding: .35rem;
+  .tabCard{
+    display: none;
+    position: relative;
+    &.active{
+      display: block;
+    }
+    .content{
+      position: relative;
+      width: 90%;
+      margin: 0 auto;
+      padding-bottom: .4rem;
+      .timeLine{
+        position: absolute;
+        border-left: 3px solid rgba(0,0,0,0.05);
+        height: 100%;
+        left: $timeLineLeft;
+        i{
+          $size:.2rem;
+          position: absolute;
+          top: 0;
+          left: -6.8px;
+          display: block;
+          width: $size;
+          height: $size;
+          border-radius: 50%;
+          background-color: #FDC937;
+        }
+      }
+      .day{
+        font-size:0.29rem;
+        font-weight:bold;
+        color:rgba(42,46,51,1);
+      }
+      .item{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        p{
+          font-size:0.27rem;
+          font-weight:400;
+          color:rgba(42,46,51,1);
+          margin-top: .2rem;
+          b{
+            margin-right: .31rem;
+          }
+        }
+        .state{
+          font-size:0.27rem;
+          font-weight:400;
+          &.wait{
+            color:rgba(136,136,136,1);
+          }
+          &.success{
+            color:rgba(247,71,71,1);
+          }
+          .money{
+            color: #F74747;
+          }
+        }
+      }
+    }
+  }
+}
+.footer{
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+  font-size:0.24rem;
+  font-weight:400;
+  color:rgba(125,125,125,1);
+  height: .48rem;
+  line-height: .48rem;
+  background:rgba(243,243,243,1);
+}
+
