@@ -174,12 +174,12 @@
               &.wave{
                 &::before,
                 &::after{
-                  $size: 3rem;
+                  $size: 2.5rem;
                   content: "";
                   position: absolute;
                   width: $size;
                   height: $size;
-                  top: -43px;
+                  top: -.7rem;
                   left: 50%;
                   background-color: rgba(255, 255, 255, .4);
                   border-radius: 45%;
