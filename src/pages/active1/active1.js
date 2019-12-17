@@ -3,6 +3,7 @@ if (process.env.NODE_ENV !== 'production') require('./active1.html');
 import "./active1.scss";
 import "@/assets/js/flexible.min.js";
 
+
 $(() => {
   //todo 如果登录，userName 增加className:active
   
@@ -54,6 +55,14 @@ $(() => {
   
   
 })
+
+function test() {
+  let wu = [11,22,"wushaopeng"];
+  wu.map((item)=>{
+    console.log(item)
+  })
+}
+test()
 
 
 

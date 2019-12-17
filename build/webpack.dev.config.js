@@ -32,20 +32,12 @@ const devWebpackConfig = merge(common, {
   module: {
     rules: [
       {
-        test: /\.js$/,
-        exclude: /node_modules/,        //排除 node_modules 下的js
-        loader: "babel-loader",        //webpack 和 babel 之间的桥梁
-        options:{
-        }
-      },
-      {
         test: /\.(c|sc)ss$/,
         use: [
           'style-loader',
           'css-loader',
           "sass-loader"
         ]
-        
       },
       {
         test: /\.(htm|html)$/,
@@ -74,8 +66,6 @@ module.exports = new Promise((reslove, reject) => {
         }
       }))
     }
-    
-    
     reslove(devWebpackConfig);
   })
 })
