@@ -2,9 +2,9 @@ const path = require('path');
 
 module.exports = {
   dev: {
-    port: 9566,
+    port: 4563,
     autoOpenBrower: true,//自动打开浏览器
-    host: '172.18.7.88',
+    host: 'localhost',
     overlay: {warnings: false, errors: true},
     openPage: 'active1.html',
     publicPath: '/'
