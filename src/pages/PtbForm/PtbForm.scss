@@ -1,0 +1,23 @@
+@import "../../assets/css/reset.css";
+
+.A4{
+  width: 794px;
+  height: 1123px;
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  .form-box{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    .name{
+      position: absolute;
+
+    }
+  }
+}
+
+
+

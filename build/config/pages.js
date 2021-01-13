@@ -31,11 +31,23 @@ const pages = [
     title: '明细页面'
   },
   {
+    name: 'PtbForm',
+    template: 'PtbForm/PtbForm.html',
+    entry: 'PtbForm/PtbForm.js',
+    title: '跑团邦form'
+  },
+  {
     name: 'test',
     template: 'test/test.html',
     entry: 'test/test.js',
     title: '测试页面'
-  }
+  },
+  {
+    name: 'douCalendar',
+    template: 'douCalendar/douCalendar.html',
+    entry: 'douCalendar/douCalendar.js',
+    title: '豆瓣日历'
+  },
 ]
 
 module.exports = pages;

@@ -46,6 +46,7 @@
     "@babel/runtime": "^7.7.6",
     "core-js": "^2.6.9",
     "expose-loader": "^0.7.5",
+    "html2canvas": "^1.0.0-rc.7",
     "jquery": "^3.4.1",
     "raw-loader": "^4.0.0"
   }
