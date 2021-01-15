@@ -48,6 +48,12 @@ const pages = [
     entry: 'douCalendar/douCalendar.js',
     title: '豆瓣日历'
   },
+  {
+    name: 'ems',
+    template: 'ems/ems.html',
+    entry: 'ems/ems.js',
+    title: '快递查询'
+  },
 ]
 
 module.exports = pages;

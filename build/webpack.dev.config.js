@@ -8,6 +8,10 @@ const pagesGenerate = getPageGenerate();
 const portfinder = require('portfinder');
 const config = require('./config/index.js');
 
+const os = require('os');
+const osType = os.type(); //系统类型
+const netInfo = os.networkInterfaces(); //网络信息
+
 const devWebpackConfig = merge(common, {
 	mode: 'development',
 	output: {
@@ -72,7 +76,7 @@ module.exports = new Promise((reslove, reject) => {
 				compilationSuccessInfo: {
 					messages: [
 						`您的应用运行成功: http://localhost:${config.dev.port}/${config.dev.openPage}`,
-						`http://localhost:${config.dev.port}/${config.dev.openPage}`,
+						`http://${getLocalIP()}:${config.dev.port}/${config.dev.openPage}`,
 					],
 				}
 			}))
@@ -82,3 +86,19 @@ module.exports = new Promise((reslove, reject) => {
 		reslove(devWebpackConfig);
 	})
 })
+
+function getLocalIP() {
+	var interfaces = os.networkInterfaces();
+	var res = ''
+	for (var devName in interfaces) {
+		var devObj = interfaces[devName];
+		if(devName === 'WLAN'){
+			devObj.forEach(item=>{
+				if(item.family === 'IPv4'){
+					res = item.address
+				}
+			})
+		}
+	}
+	return res
+}

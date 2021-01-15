@@ -1,0 +1,130 @@
+@import "../../assets/css/reset.css";
+
+html {
+  height: 100vh;
+}
+
+.calendar-box {
+  //background: url("../../../static/doubanImage/303原图.jpg");
+  //background-repeat: no-repeat;
+  //background-size: contain;
+  width: 100%;
+  height: 750px;
+  position: relative;
+
+  .calendar-bg {
+    //纵图
+    &.vertical {
+      max-width: 100%;
+      height: 100%;
+      overflow: hidden;
+      img {
+        width: 100%;
+        //height: 100%;
+        //object-fit: cover;
+      }
+    }
+
+    //横图
+    &.horizontal {
+      width: 100%;
+
+      img {
+        //object-fit: cover;
+      }
+    }
+  }
+
+  //img {
+  //  width: 100%;
+  //  height: 100%;
+  //  object-fit: scale-down;
+  //  //object-fit: fill / contain / cover / none / scale-down;
+  //  //fill: 默认值。内容拉伸填满整个content box, 不保证保持原有的比例。
+  //  //contain: 保持原有尺寸比例。长度和高度中短的那条边跟容器大小一致，长的那条等比缩放，可能会有留白。
+  //  //cover: 保持原有尺寸比例。宽度和高度中长的那条边跟容器大小一致，短的那条等比缩放。可能会有部分区域不可见。
+  //  //none: 保持原有尺寸比例。同时保持替换内容原始尺寸大小。
+  //  //scale-down:保持原有尺寸比例,如果容器尺寸大于图片内容尺寸，保持图片的原有尺寸，不会放大失真；容器尺寸小于图片内容尺寸，用法跟contain一样。
+  //}
+
+  .info-box {
+    $text-margin: 6px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 18px 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: #d9d9d9;
+    font-size: 12px;
+
+    .item {
+      div, a, b {
+        color: #FFFFFF;
+      }
+    }
+
+    .calendar-txt {
+      color: inherit;
+      flex-basis: 300px;
+
+      .day {
+        font-size: 72px;
+      }
+
+      .date-en {
+        margin-top: $text-margin;
+      }
+
+      .date-ch {
+        margin-top: $text-margin;
+      }
+    }
+
+    .movie-info {
+      color: inherit;
+      display: flex;
+      align-content: flex-end;
+      flex-wrap: wrap;
+      //margin-left: 10px;
+      div {
+        width: 100%;
+        margin-top: $text-margin;
+      }
+    }
+
+  }
+
+}
+
+
+.middle {
+  position: fixed;
+  z-index: 99999;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  .btn {
+    font-size: 80px;
+    color: rgba(199, 237, 204, 0.1);
+  }
+}
+.bottom {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+  .item {
+    flex: 1;
+    padding: 15px 0;
+    text-align: center;
+    background-color: #3FA156;
+    color: #FFFFFF;
+  }
+}
+

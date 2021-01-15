@@ -17,7 +17,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1485260/"
+		"a_link": "https://movie.douban.com/subject/1485260/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "信条",
 		"movie_name_en": " Tenet",
@@ -36,7 +37,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30444960/"
+		"a_link": "https://movie.douban.com/subject/30444960/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "燃烧女子的肖像 ",
 		"movie_name_en": "Portrait de la jeune fille en feu",
@@ -55,7 +57,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30257175/"
+		"a_link": "https://movie.douban.com/subject/30257175/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "在云端 ",
 		"movie_name_en": "Up in the Air",
@@ -74,7 +77,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3077791/"
+		"a_link": "https://movie.douban.com/subject/3077791/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "天空之城",
 		"movie_name_en": " 天空の城ラピュタ",
@@ -93,7 +97,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291583/"
+		"a_link": "https://movie.douban.com/subject/1291583/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "寄生虫",
 		"movie_name_en": " 기생충",
@@ -112,7 +117,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27010768/"
+		"a_link": "https://movie.douban.com/subject/27010768/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "咖啡公社 ",
 		"movie_name_en": "Café Society",
@@ -131,7 +137,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26340522/"
+		"a_link": "https://movie.douban.com/subject/26340522/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "阿基拉",
 		"movie_name_en": " Akira",
@@ -150,10 +157,11 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1302770/"
+		"a_link": "https://movie.douban.com/subject/1302770/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "崖上的波妞",
-		"movie_name_en": "崖の上のポニョ",
+		"movie_name_en": "",
 		"coverImage_local": "09.jpg",
 		"coverImage_OSS": "",
 		"movie_name": "崖上的波妞",
@@ -169,7 +177,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27615441/"
+		"a_link": "https://movie.douban.com/subject/27615441/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "战场上的快乐圣诞 ",
 		"movie_name_en": "Merry Christmas Mr. Lawrence",
@@ -188,7 +197,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1303535/"
+		"a_link": "https://movie.douban.com/subject/1303535/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "去他*的世界 第二季 ",
 		"movie_name_en": "The End of the F***ing World Season 2",
@@ -207,7 +217,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27625457/"
+		"a_link": "https://movie.douban.com/subject/27625457/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "小丑",
 		"movie_name_en": " Joker",
@@ -226,7 +237,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27119724/"
+		"a_link": "https://movie.douban.com/subject/27119724/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "成长教育 ",
 		"movie_name_en": "An Education",
@@ -245,7 +257,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3011093/"
+		"a_link": "https://movie.douban.com/subject/3011093/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "黑店狂想曲",
 		"movie_name_en": " Delicatessen",
@@ -264,7 +277,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1306666/"
+		"a_link": "https://movie.douban.com/subject/1306666/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "神圣车行 ",
 		"movie_name_en": "Holy Motors",
@@ -283,7 +297,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6875451/"
+		"a_link": "https://movie.douban.com/subject/6875451/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "法兰西特派 ",
 		"movie_name_en": "The French Dispatch",
@@ -302,7 +317,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30300279/"
+		"a_link": "https://movie.douban.com/subject/30300279/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "极速车王 ",
 		"movie_name_en": "Ford v Ferrari",
@@ -321,7 +337,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6538866/"
+		"a_link": "https://movie.douban.com/subject/6538866/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "奏鸣曲",
 		"movie_name_en": " ソナチネ",
@@ -340,7 +357,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1298351/"
+		"a_link": "https://movie.douban.com/subject/1298351/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "死亡幻觉 ",
 		"movie_name_en": "Donnie Darko",
@@ -359,7 +377,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1306662/"
+		"a_link": "https://movie.douban.com/subject/1306662/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "妖夜慌踪 ",
 		"movie_name_en": "Lost Highway",
@@ -378,7 +397,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1303459/"
+		"a_link": "https://movie.douban.com/subject/1303459/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "疯狂愚蠢的爱 ",
 		"movie_name_en": "Crazy, Stupid, Love",
@@ -397,7 +417,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4215790/"
+		"a_link": "https://movie.douban.com/subject/4215790/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "破碎之花 ",
 		"movie_name_en": "Broken Flowers",
@@ -416,7 +437,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1416435/"
+		"a_link": "https://movie.douban.com/subject/1416435/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "水牛城66 ",
 		"movie_name_en": "Buffalo '66",
@@ -435,7 +457,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297311/"
+		"a_link": "https://movie.douban.com/subject/1297311/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "调音师",
 		"movie_name_en": " Andhadhun",
@@ -454,7 +477,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30334073/"
+		"a_link": "https://movie.douban.com/subject/30334073/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "破产姐妹 第一季 ",
 		"movie_name_en": "2 Broke Girls Season 1",
@@ -473,7 +497,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6395245/"
+		"a_link": "https://movie.douban.com/subject/6395245/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "科比的缪斯 ",
 		"movie_name_en": "Kobe Bryant's Muse",
@@ -492,7 +517,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26334993/"
+		"a_link": "https://movie.douban.com/subject/26334993/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "谈谈情跳跳舞 ",
 		"movie_name_en": "Shall we ダンス?",
@@ -511,7 +537,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308010/"
+		"a_link": "https://movie.douban.com/subject/1308010/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "勇敢传说",
 		"movie_name_en": " Brave",
@@ -530,7 +557,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3036473/"
+		"a_link": "https://movie.douban.com/subject/3036473/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "与歌同行 ",
 		"movie_name_en": "Walk the Line",
@@ -549,7 +577,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1422922/"
+		"a_link": "https://movie.douban.com/subject/1422922/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "沉默的羔羊 ",
 		"movie_name_en": "The Silence of the Lambs",
@@ -568,7 +597,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293544/"
+		"a_link": "https://movie.douban.com/subject/1293544/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "",
 		"movie_name_en": "2",
@@ -587,7 +617,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4164444/"
+		"a_link": "https://movie.douban.com/subject/4164444/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "秘密特工 ",
 		"movie_name_en": "The Man from U.N.C.L.E.",
@@ -606,7 +637,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6845667/"
+		"a_link": "https://movie.douban.com/subject/6845667/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "纵横四海",
 		"movie_name_en": " 緃横四海",
@@ -625,7 +657,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1295409/"
+		"a_link": "https://movie.douban.com/subject/1295409/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "月球",
 		"movie_name_en": " Moon",
@@ -644,7 +677,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3073124/"
+		"a_link": "https://movie.douban.com/subject/3073124/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "纸牌屋 第一季 ",
 		"movie_name_en": "House of Cards Season 1",
@@ -663,7 +697,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6037429/"
+		"a_link": "https://movie.douban.com/subject/6037429/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "爱尔兰人 ",
 		"movie_name_en": "The Irishman",
@@ -682,7 +717,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6981153/"
+		"a_link": "https://movie.douban.com/subject/6981153/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "阿黛尔·雨果的故事 ",
 		"movie_name_en": "L'histoire d'Adèle H.",
@@ -701,7 +737,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293870/"
+		"a_link": "https://movie.douban.com/subject/1293870/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "兵临城下 ",
 		"movie_name_en": "Enemy at the Gates",
@@ -720,7 +757,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1301726/"
+		"a_link": "https://movie.douban.com/subject/1301726/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "无因的反叛 ",
 		"movie_name_en": "Rebel Without a Cause",
@@ -739,7 +777,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1295416/"
+		"a_link": "https://movie.douban.com/subject/1295416/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "人类之子 ",
 		"movie_name_en": "Children of Men",
@@ -758,7 +797,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1478064/"
+		"a_link": "https://movie.douban.com/subject/1478064/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "利刃出鞘 ",
 		"movie_name_en": "Knives Out",
@@ -777,7 +817,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30318116/"
+		"a_link": "https://movie.douban.com/subject/30318116/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "在世界转角遇见爱 ",
 		"movie_name_en": "Светът е голям и спасение дебне отвсякъде",
@@ -796,7 +837,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3299241/"
+		"a_link": "https://movie.douban.com/subject/3299241/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "美好的一年 ",
 		"movie_name_en": "A Good Year",
@@ -815,7 +857,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1482101/"
+		"a_link": "https://movie.douban.com/subject/1482101/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "1917",
 		"movie_name_en": "",
@@ -834,7 +877,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30252495/"
+		"a_link": "https://movie.douban.com/subject/30252495/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "想见你",
 		"movie_name_en": " 想見你",
@@ -853,7 +897,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30468961/"
+		"a_link": "https://movie.douban.com/subject/30468961/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "一次别离 ",
 		"movie_name_en": "جدایی نادر از سیمین",
@@ -872,7 +917,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/5964718/"
+		"a_link": "https://movie.douban.com/subject/5964718/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "千里走单骑",
 		"movie_name_en": "",
@@ -891,7 +937,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1422952/"
+		"a_link": "https://movie.douban.com/subject/1422952/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "我恨你的十件事 ",
 		"movie_name_en": "10 Things I Hate About You",
@@ -910,7 +957,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1296359/"
+		"a_link": "https://movie.douban.com/subject/1296359/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "锡尔斯玛利亚 ",
 		"movie_name_en": "Clouds of Sils Maria",
@@ -929,7 +977,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/19976774/"
+		"a_link": "https://movie.douban.com/subject/19976774/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "爆炸新闻",
 		"movie_name_en": " Bombshell",
@@ -948,7 +997,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30289194/"
+		"a_link": "https://movie.douban.com/subject/30289194/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "鳄鱼波鞋走天涯 ",
 		"movie_name_en": "The Cure",
@@ -967,7 +1017,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1301811/"
+		"a_link": "https://movie.douban.com/subject/1301811/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "超感猎杀 第一季 ",
 		"movie_name_en": "Sense8 Season 1",
@@ -986,7 +1037,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/23011215/"
+		"a_link": "https://movie.douban.com/subject/23011215/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "朦胧的欲望 ",
 		"movie_name_en": "Cet obscur objet du désir",
@@ -1005,7 +1057,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1303071/"
+		"a_link": "https://movie.douban.com/subject/1303071/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "猜火车",
 		"movie_name_en": " Trainspotting",
@@ -1024,7 +1077,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292528/"
+		"a_link": "https://movie.douban.com/subject/1292528/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "修女艾达",
 		"movie_name_en": " Ida",
@@ -1043,7 +1097,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/24870808/"
+		"a_link": "https://movie.douban.com/subject/24870808/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "花木兰",
 		"movie_name_en": " Mulan",
@@ -1062,7 +1117,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26357307/"
+		"a_link": "https://movie.douban.com/subject/26357307/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "地心引力",
 		"movie_name_en": " Gravity",
@@ -1081,7 +1137,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3793783/"
+		"a_link": "https://movie.douban.com/subject/3793783/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "铁甲钢拳 ",
 		"movie_name_en": "Real Steel",
@@ -1100,7 +1157,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1972729/"
+		"a_link": "https://movie.douban.com/subject/1972729/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "理查德·朱维尔的哀歌 ",
 		"movie_name_en": "Richard Jewell",
@@ -1119,7 +1177,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25842038/"
+		"a_link": "https://movie.douban.com/subject/25842038/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "人生遥控器",
 		"movie_name_en": " Click",
@@ -1138,7 +1197,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1474185/"
+		"a_link": "https://movie.douban.com/subject/1474185/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "爸妈不在家",
 		"movie_name_en": " 爸媽不在家",
@@ -1157,7 +1217,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/24324730/"
+		"a_link": "https://movie.douban.com/subject/24324730/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "本能 ",
 		"movie_name_en": "Basic Instinct",
@@ -1176,7 +1237,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291869/"
+		"a_link": "https://movie.douban.com/subject/1291869/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "唐顿庄园 第一季 ",
 		"movie_name_en": "Downton Abbey Season 1",
@@ -1195,7 +1257,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4769314/"
+		"a_link": "https://movie.douban.com/subject/4769314/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "魂断威尼斯 ",
 		"movie_name_en": "Morte a Venezia",
@@ -1214,7 +1277,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1300912/"
+		"a_link": "https://movie.douban.com/subject/1300912/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "马文的房间 ",
 		"movie_name_en": "Marvin's Room",
@@ -1233,7 +1297,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293387/"
+		"a_link": "https://movie.douban.com/subject/1293387/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "训练日 ",
 		"movie_name_en": "Training Day",
@@ -1252,7 +1317,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1304898/"
+		"a_link": "https://movie.douban.com/subject/1304898/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "小妇人 ",
 		"movie_name_en": "Little Women",
@@ -1271,7 +1337,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26348103/"
+		"a_link": "https://movie.douban.com/subject/26348103/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "雏菊",
 		"movie_name_en": " 데이지",
@@ -1290,7 +1357,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1433360/"
+		"a_link": "https://movie.douban.com/subject/1433360/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "索尔之子 ",
 		"movie_name_en": "Saul fia",
@@ -1309,7 +1377,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26353881/"
+		"a_link": "https://movie.douban.com/subject/26353881/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "源代码 ",
 		"movie_name_en": "Source Code",
@@ -1328,7 +1397,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3075287/"
+		"a_link": "https://movie.douban.com/subject/3075287/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "后天 ",
 		"movie_name_en": "The Day After Tomorrow",
@@ -1347,7 +1417,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308779/"
+		"a_link": "https://movie.douban.com/subject/1308779/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "少数派报告 ",
 		"movie_name_en": "Minority Report",
@@ -1366,7 +1437,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297689/"
+		"a_link": "https://movie.douban.com/subject/1297689/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "汉娜姐妹 ",
 		"movie_name_en": "Hannah and Her Sisters",
@@ -1385,7 +1457,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292764/"
+		"a_link": "https://movie.douban.com/subject/1292764/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "苏州河",
 		"movie_name_en": "",
@@ -1404,7 +1477,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1299661/"
+		"a_link": "https://movie.douban.com/subject/1299661/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "戏梦巴黎 ",
 		"movie_name_en": "The Dreamers",
@@ -1423,7 +1497,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291856/"
+		"a_link": "https://movie.douban.com/subject/1291856/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "离开拉斯维加斯 ",
 		"movie_name_en": "Leaving Las Vegas",
@@ -1442,7 +1517,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293596/"
+		"a_link": "https://movie.douban.com/subject/1293596/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "洛奇",
 		"movie_name_en": " Rocky",
@@ -1461,7 +1537,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1295742/"
+		"a_link": "https://movie.douban.com/subject/1295742/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "美女与野兽 ",
 		"movie_name_en": "Beauty and the Beast",
@@ -1480,7 +1557,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297995/"
+		"a_link": "https://movie.douban.com/subject/1297995/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "幻想之爱 ",
 		"movie_name_en": "Les amours imaginaires",
@@ -1499,7 +1577,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4728076/"
+		"a_link": "https://movie.douban.com/subject/4728076/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "锅匠，裁缝，士兵，间谍 ",
 		"movie_name_en": "Tinker Tailor Soldier Spy",
@@ -1518,7 +1597,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3338851/"
+		"a_link": "https://movie.douban.com/subject/3338851/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "超市夜未眠",
 		"movie_name_en": " Cashback",
@@ -1537,7 +1617,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1945549/"
+		"a_link": "https://movie.douban.com/subject/1945549/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "灵欲春宵 ",
 		"movie_name_en": "Who's Afraid of Virginia Woolf?",
@@ -1556,7 +1637,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1295137/"
+		"a_link": "https://movie.douban.com/subject/1295137/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "神探夏洛克 第一季 ",
 		"movie_name_en": "Sherlock Season 1",
@@ -1575,7 +1657,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3986493/"
+		"a_link": "https://movie.douban.com/subject/3986493/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "孟买酒店 ",
 		"movie_name_en": "Hotel Mumbai",
@@ -1594,7 +1677,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26794701/"
+		"a_link": "https://movie.douban.com/subject/26794701/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "秒速5厘米",
 		"movie_name_en": " 秒速5センチメートル",
@@ -1613,7 +1697,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2043546/"
+		"a_link": "https://movie.douban.com/subject/2043546/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "金刚不坏 ",
 		"movie_name_en": "Death Proof",
@@ -1632,7 +1717,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2080007/"
+		"a_link": "https://movie.douban.com/subject/2080007/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "唯爱永生 ",
 		"movie_name_en": "Only Lovers Left Alive",
@@ -1651,7 +1737,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/5265471/"
+		"a_link": "https://movie.douban.com/subject/5265471/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "从不，很少，有时，总是 ",
 		"movie_name_en": "Never Rarely Sometimes Always",
@@ -1670,7 +1757,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/33411505/"
+		"a_link": "https://movie.douban.com/subject/33411505/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "爱你，罗茜 ",
 		"movie_name_en": "Love, Rosie",
@@ -1689,7 +1777,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/5153254/"
+		"a_link": "https://movie.douban.com/subject/5153254/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "影子写手 ",
 		"movie_name_en": "The Ghost Writer",
@@ -1708,7 +1797,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3120852/"
+		"a_link": "https://movie.douban.com/subject/3120852/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "风月",
 		"movie_name_en": "",
@@ -1727,7 +1817,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1302874/"
+		"a_link": "https://movie.douban.com/subject/1302874/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "雨人 ",
 		"movie_name_en": "Rain Man",
@@ -1746,7 +1837,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291870/"
+		"a_link": "https://movie.douban.com/subject/1291870/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "夜以继日",
 		"movie_name_en": " 寝ても覚めても",
@@ -1765,7 +1857,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27037053/"
+		"a_link": "https://movie.douban.com/subject/27037053/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "牺牲",
 		"movie_name_en": " Offret",
@@ -1784,7 +1877,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1294531/"
+		"a_link": "https://movie.douban.com/subject/1294531/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "冰血暴",
 		"movie_name_en": " Fargo",
@@ -1803,7 +1897,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292067/"
+		"a_link": "https://movie.douban.com/subject/1292067/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "改编剧本",
 		"movie_name_en": " Adaptation.",
@@ -1822,7 +1917,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1302193/"
+		"a_link": "https://movie.douban.com/subject/1302193/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "达拉斯买家俱乐部 ",
 		"movie_name_en": "Dallas Buyers Club",
@@ -1841,7 +1937,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1793929/"
+		"a_link": "https://movie.douban.com/subject/1793929/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "咖啡时光",
 		"movie_name_en": " 珈琲時光",
@@ -1860,7 +1957,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1310166/"
+		"a_link": "https://movie.douban.com/subject/1310166/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "热天午后 ",
 		"movie_name_en": "Dog Day Afternoon",
@@ -1879,7 +1977,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293374/"
+		"a_link": "https://movie.douban.com/subject/1293374/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "一个明星的诞生 ",
 		"movie_name_en": "A Star Is Born",
@@ -1898,7 +1997,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4058933/"
+		"a_link": "https://movie.douban.com/subject/4058933/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "南国野兽 ",
 		"movie_name_en": "Beasts of the Southern Wild",
@@ -1917,7 +2017,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/7015714/"
+		"a_link": "https://movie.douban.com/subject/7015714/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "迷失 第一季 ",
 		"movie_name_en": "Lost Season 1",
@@ -1936,7 +2037,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1394819/"
+		"a_link": "https://movie.douban.com/subject/1394819/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "绅士们 ",
 		"movie_name_en": "The Gentlemen",
@@ -1955,7 +2057,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30211998/"
+		"a_link": "https://movie.douban.com/subject/30211998/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "砂之女",
 		"movie_name_en": " 砂の女",
@@ -1974,7 +2077,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1295812/"
+		"a_link": "https://movie.douban.com/subject/1295812/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "西部世界 第一季 ",
 		"movie_name_en": "Westworld Season 1",
@@ -1993,7 +2097,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2338055/"
+		"a_link": "https://movie.douban.com/subject/2338055/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "桂河大桥 ",
 		"movie_name_en": "The Bridge on the River Kwai",
@@ -2012,7 +2117,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1294958/"
+		"a_link": "https://movie.douban.com/subject/1294958/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "海盗电台 ",
 		"movie_name_en": "The Boat That Rocked",
@@ -2031,7 +2137,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3007773/"
+		"a_link": "https://movie.douban.com/subject/3007773/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "气球",
 		"movie_name_en": " Ballon",
@@ -2050,7 +2157,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30192401/"
+		"a_link": "https://movie.douban.com/subject/30192401/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "朱迪",
 		"movie_name_en": " Judy",
@@ -2069,7 +2177,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27179039/"
+		"a_link": "https://movie.douban.com/subject/27179039/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "无双",
 		"movie_name_en": " 無雙",
@@ -2088,7 +2197,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26425063/"
+		"a_link": "https://movie.douban.com/subject/26425063/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "超体",
 		"movie_name_en": " Lucy",
@@ -2107,7 +2217,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/24404677/"
+		"a_link": "https://movie.douban.com/subject/24404677/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "机动部队",
 		"movie_name_en": " PTU",
@@ -2126,7 +2237,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1302434/"
+		"a_link": "https://movie.douban.com/subject/1302434/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "文科恋曲 ",
 		"movie_name_en": "Liberal Arts",
@@ -2145,7 +2257,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6757776/"
+		"a_link": "https://movie.douban.com/subject/6757776/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "盲视",
 		"movie_name_en": " Blind",
@@ -2164,7 +2277,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25785124/"
+		"a_link": "https://movie.douban.com/subject/25785124/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "超脱",
 		"movie_name_en": " Detachment",
@@ -2183,7 +2297,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/5322596/"
+		"a_link": "https://movie.douban.com/subject/5322596/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "面子 ",
 		"movie_name_en": "Saving Face",
@@ -2202,7 +2317,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1421278/"
+		"a_link": "https://movie.douban.com/subject/1421278/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "哭泣的草原 ",
 		"movie_name_en": "Τριλογία 1: Το Λιβάδι που δακρύζει",
@@ -2221,7 +2337,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1388180/"
+		"a_link": "https://movie.douban.com/subject/1388180/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "女间谍",
 		"movie_name_en": " Spy",
@@ -2240,7 +2357,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25752261/"
+		"a_link": "https://movie.douban.com/subject/25752261/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "女孩",
 		"movie_name_en": " Girl",
@@ -2259,7 +2377,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30194769/"
+		"a_link": "https://movie.douban.com/subject/30194769/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "美国甜心 ",
 		"movie_name_en": "American Honey",
@@ -2278,7 +2397,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25884741/"
+		"a_link": "https://movie.douban.com/subject/25884741/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "钢的琴",
 		"movie_name_en": "",
@@ -2297,7 +2417,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4876722/"
+		"a_link": "https://movie.douban.com/subject/4876722/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "海洋奇缘",
 		"movie_name_en": " Moana",
@@ -2316,7 +2437,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25793398/"
+		"a_link": "https://movie.douban.com/subject/25793398/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "黑水 ",
 		"movie_name_en": "Dark Waters",
@@ -2335,7 +2457,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30331959/"
+		"a_link": "https://movie.douban.com/subject/30331959/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "青春年少",
 		"movie_name_en": " Rushmore",
@@ -2354,7 +2477,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1296835/"
+		"a_link": "https://movie.douban.com/subject/1296835/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "夏天的故事 ",
 		"movie_name_en": "Conte d'été",
@@ -2373,7 +2497,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1302675/"
+		"a_link": "https://movie.douban.com/subject/1302675/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "远离天堂 ",
 		"movie_name_en": "Far from Heaven",
@@ -2392,7 +2517,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1305986/"
+		"a_link": "https://movie.douban.com/subject/1305986/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "机械姬 ",
 		"movie_name_en": "Ex Machina",
@@ -2411,7 +2537,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4160540/"
+		"a_link": "https://movie.douban.com/subject/4160540/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "伊甸湖 ",
 		"movie_name_en": "Eden Lake",
@@ -2430,7 +2557,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3011997/"
+		"a_link": "https://movie.douban.com/subject/3011997/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "妈妈咪呀 ",
 		"movie_name_en": "Mamma Mia!",
@@ -2449,7 +2577,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2054024/"
+		"a_link": "https://movie.douban.com/subject/2054024/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "奔腾年代",
 		"movie_name_en": " Seabiscuit",
@@ -2468,7 +2597,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1307535/"
+		"a_link": "https://movie.douban.com/subject/1307535/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "风骚律师 第一季 ",
 		"movie_name_en": "Better Call Saul Season 1",
@@ -2487,7 +2617,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25726259/"
+		"a_link": "https://movie.douban.com/subject/25726259/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "心灵点滴 ",
 		"movie_name_en": "Patch Adams",
@@ -2506,7 +2637,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293981/"
+		"a_link": "https://movie.douban.com/subject/1293981/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "独自在夜晚的海边 ",
 		"movie_name_en": "밤의 해변에서 혼자",
@@ -2525,7 +2657,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26718282/"
+		"a_link": "https://movie.douban.com/subject/26718282/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "感谢上帝 ",
 		"movie_name_en": "Grâce à Dieu",
@@ -2544,7 +2677,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30162055/"
+		"a_link": "https://movie.douban.com/subject/30162055/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "露西亚的情人 ",
 		"movie_name_en": "Lucía y el sexo",
@@ -2563,7 +2697,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297598/"
+		"a_link": "https://movie.douban.com/subject/1297598/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "壮志凌云 ",
 		"movie_name_en": "Top Gun",
@@ -2582,7 +2717,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293799/"
+		"a_link": "https://movie.douban.com/subject/1293799/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "男孩别哭 ",
 		"movie_name_en": "Boys Don't Cry",
@@ -2601,7 +2737,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1300528/"
+		"a_link": "https://movie.douban.com/subject/1300528/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "坏孩子的天空",
 		"movie_name_en": " キッズ・リターン",
@@ -2620,7 +2757,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1299062/"
+		"a_link": "https://movie.douban.com/subject/1299062/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "超新约全书 ",
 		"movie_name_en": "Le tout nouveau testament",
@@ -2639,7 +2777,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25958704/"
+		"a_link": "https://movie.douban.com/subject/25958704/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "婚姻故事 ",
 		"movie_name_en": "Marriage Story",
@@ -2658,7 +2797,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27202818/"
+		"a_link": "https://movie.douban.com/subject/27202818/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "了不起的麦瑟尔夫人 第一季 ",
 		"movie_name_en": "The Marvelous Mrs. Maisel Season 1",
@@ -2677,7 +2817,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26813221/"
+		"a_link": "https://movie.douban.com/subject/26813221/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "碟中谍 ",
 		"movie_name_en": "Mission: Impossible",
@@ -2696,7 +2837,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292484/"
+		"a_link": "https://movie.douban.com/subject/1292484/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "她",
 		"movie_name_en": " Elle",
@@ -2715,7 +2857,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26022182/"
+		"a_link": "https://movie.douban.com/subject/26022182/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "原钻 ",
 		"movie_name_en": "Uncut Gems",
@@ -2734,7 +2877,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27045860/"
+		"a_link": "https://movie.douban.com/subject/27045860/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "单车少年 ",
 		"movie_name_en": "Le gamin au vélo",
@@ -2753,7 +2897,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/5972040/"
+		"a_link": "https://movie.douban.com/subject/5972040/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "怪房客 ",
 		"movie_name_en": "Le locataire",
@@ -2772,7 +2917,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297399/"
+		"a_link": "https://movie.douban.com/subject/1297399/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "方形 ",
 		"movie_name_en": "The Square",
@@ -2791,7 +2937,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26610229/"
+		"a_link": "https://movie.douban.com/subject/26610229/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "疾速备战 ",
 		"movie_name_en": "John Wick: Chapter 3 - Parabellum",
@@ -2810,7 +2957,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26909790/"
+		"a_link": "https://movie.douban.com/subject/26909790/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "爱是妥协 ",
 		"movie_name_en": "Something's Gotta Give",
@@ -2829,7 +2977,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308582/"
+		"a_link": "https://movie.douban.com/subject/1308582/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "蒂莫西的奇异生活 ",
 		"movie_name_en": "The Odd Life of Timothy Green",
@@ -2848,7 +2997,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3819871/"
+		"a_link": "https://movie.douban.com/subject/3819871/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "完美的世界 ",
 		"movie_name_en": "A Perfect World",
@@ -2867,7 +3017,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1300992/"
+		"a_link": "https://movie.douban.com/subject/1300992/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "玩具总动员4 ",
 		"movie_name_en": "Toy Story 4",
@@ -2886,7 +3037,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6850547/"
+		"a_link": "https://movie.douban.com/subject/6850547/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "南国再见，南国",
 		"movie_name_en": " 南國再見，南國",
@@ -2905,7 +3057,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1303458/"
+		"a_link": "https://movie.douban.com/subject/1303458/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "年轻的教宗 ",
 		"movie_name_en": "The Young Pope",
@@ -2924,7 +3077,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25884125/"
+		"a_link": "https://movie.douban.com/subject/25884125/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "因父之名 ",
 		"movie_name_en": "In the Name of the Father",
@@ -2943,7 +3097,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297009/"
+		"a_link": "https://movie.douban.com/subject/1297009/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "瑟堡的雨伞 ",
 		"movie_name_en": "Les parapluies de Cherbourg",
@@ -2962,7 +3117,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1301646/"
+		"a_link": "https://movie.douban.com/subject/1301646/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "幻之光",
 		"movie_name_en": " 幻の光",
@@ -2981,7 +3137,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1306885/"
+		"a_link": "https://movie.douban.com/subject/1306885/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "少年的你",
 		"movie_name_en": "",
@@ -3000,7 +3157,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30166972/"
+		"a_link": "https://movie.douban.com/subject/30166972/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "海洋之歌 ",
 		"movie_name_en": "Song of the Sea",
@@ -3019,7 +3177,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/11584019/"
+		"a_link": "https://movie.douban.com/subject/11584019/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "纽约，我爱你 ",
 		"movie_name_en": "New York, I Love You",
@@ -3038,7 +3197,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2334814/"
+		"a_link": "https://movie.douban.com/subject/2334814/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "午夜巴黎 ",
 		"movie_name_en": "Midnight in Paris",
@@ -3057,7 +3217,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4319218/"
+		"a_link": "https://movie.douban.com/subject/4319218/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "这时对，那时错",
 		"movie_name_en": " 지금은맞고그때는틀리다",
@@ -3076,7 +3237,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26297388/"
+		"a_link": "https://movie.douban.com/subject/26297388/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "蝴蝶君 ",
 		"movie_name_en": "M. Butterfly",
@@ -3095,7 +3257,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293643/"
+		"a_link": "https://movie.douban.com/subject/1293643/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "无名之辈",
 		"movie_name_en": "",
@@ -3114,7 +3277,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27110296/"
+		"a_link": "https://movie.douban.com/subject/27110296/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "阳光清洗 ",
 		"movie_name_en": "Sunshine Cleaning",
@@ -3133,7 +3297,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2230905/"
+		"a_link": "https://movie.douban.com/subject/2230905/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "梦旅人",
 		"movie_name_en": " PicNic",
@@ -3152,7 +3317,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1301948/"
+		"a_link": "https://movie.douban.com/subject/1301948/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "奥丽芙·基特里奇 ",
 		"movie_name_en": "Olive Kitteridge",
@@ -3171,7 +3337,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/24869254/"
+		"a_link": "https://movie.douban.com/subject/24869254/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "我是布莱克 ",
 		"movie_name_en": "I, Daniel Blake",
@@ -3190,7 +3357,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26653676/"
+		"a_link": "https://movie.douban.com/subject/26653676/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "弗兰克",
 		"movie_name_en": " Frank",
@@ -3209,7 +3377,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/10763928/"
+		"a_link": "https://movie.douban.com/subject/10763928/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "安娜",
 		"movie_name_en": " Anna",
@@ -3228,7 +3397,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27166976/"
+		"a_link": "https://movie.douban.com/subject/27166976/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "海洋天堂",
 		"movie_name_en": "",
@@ -3247,7 +3417,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4004731/"
+		"a_link": "https://movie.douban.com/subject/4004731/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "盛夏",
 		"movie_name_en": " Лето",
@@ -3266,7 +3437,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30162520/"
+		"a_link": "https://movie.douban.com/subject/30162520/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "食神",
 		"movie_name_en": "",
@@ -3285,7 +3457,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293351/"
+		"a_link": "https://movie.douban.com/subject/1293351/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "光荣之路 ",
 		"movie_name_en": "Glory Road",
@@ -3304,7 +3477,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1457219/"
+		"a_link": "https://movie.douban.com/subject/1457219/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "无姓之人 ",
 		"movie_name_en": "Mr. Nobody",
@@ -3323,7 +3497,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2076181/"
+		"a_link": "https://movie.douban.com/subject/2076181/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "泳池情杀案 ",
 		"movie_name_en": "Swimming Pool",
@@ -3342,7 +3517,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1307427/"
+		"a_link": "https://movie.douban.com/subject/1307427/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "不羁夜 ",
 		"movie_name_en": "Boogie Nights",
@@ -3361,7 +3537,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292965/"
+		"a_link": "https://movie.douban.com/subject/1292965/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "蓝白红三部曲之红 ",
 		"movie_name_en": "Trois couleurs: Rouge",
@@ -3380,7 +3557,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292047/"
+		"a_link": "https://movie.douban.com/subject/1292047/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "南方车站的聚会",
 		"movie_name_en": "",
@@ -3399,7 +3577,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27668250/"
+		"a_link": "https://movie.douban.com/subject/27668250/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "移魂都市 ",
 		"movie_name_en": "Dark City",
@@ -3418,7 +3597,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292332/"
+		"a_link": "https://movie.douban.com/subject/1292332/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "真探 第一季 ",
 		"movie_name_en": "True Detective Season 1",
@@ -3437,7 +3617,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/10748120/"
+		"a_link": "https://movie.douban.com/subject/10748120/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "夺命金",
 		"movie_name_en": " 奪命金",
@@ -3456,7 +3637,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3532614/"
+		"a_link": "https://movie.douban.com/subject/3532614/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "天降美食 ",
 		"movie_name_en": "Cloudy with a Chance of Meatballs",
@@ -3475,7 +3657,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3102668/"
+		"a_link": "https://movie.douban.com/subject/3102668/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "大门 ",
 		"movie_name_en": "The Doors",
@@ -3494,7 +3677,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291846/"
+		"a_link": "https://movie.douban.com/subject/1291846/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "我控诉",
 		"movie_name_en": " J'accuse",
@@ -3513,7 +3697,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/10745208/"
+		"a_link": "https://movie.douban.com/subject/10745208/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "使女的故事 第一季 ",
 		"movie_name_en": "The Handmaid's Tale Season 1",
@@ -3532,7 +3717,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26784967/"
+		"a_link": "https://movie.douban.com/subject/26784967/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "纽约的一个雨天 ",
 		"movie_name_en": "A Rainy Day in New York",
@@ -3551,7 +3737,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27089612/"
+		"a_link": "https://movie.douban.com/subject/27089612/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "水中生活 ",
 		"movie_name_en": "The Life Aquatic with Steve Zissou",
@@ -3570,7 +3757,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308976/"
+		"a_link": "https://movie.douban.com/subject/1308976/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "千禧曼波",
 		"movie_name_en": "",
@@ -3589,7 +3777,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1873535/"
+		"a_link": "https://movie.douban.com/subject/1873535/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "间谍之桥 ",
 		"movie_name_en": "Bridge of Spies",
@@ -3608,7 +3797,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25908051/"
+		"a_link": "https://movie.douban.com/subject/25908051/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "处女之死 ",
 		"movie_name_en": "The Virgin Suicides",
@@ -3627,7 +3817,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297894/"
+		"a_link": "https://movie.douban.com/subject/1297894/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "美国精神病人 ",
 		"movie_name_en": "American Psycho",
@@ -3646,7 +3837,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1301715/"
+		"a_link": "https://movie.douban.com/subject/1301715/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "男孩A ",
 		"movie_name_en": "Boy A",
@@ -3665,7 +3857,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2251569/"
+		"a_link": "https://movie.douban.com/subject/2251569/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "教宗的承继 ",
 		"movie_name_en": "The Two Popes",
@@ -3684,7 +3877,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27132510/"
+		"a_link": "https://movie.douban.com/subject/27132510/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "第七封印 ",
 		"movie_name_en": "Det sjunde inseglet",
@@ -3703,7 +3897,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293234/"
+		"a_link": "https://movie.douban.com/subject/1293234/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "哈利·波特与死亡圣器(下) ",
 		"movie_name_en": "Harry Potter and the Deathly Hallows: Part 2",
@@ -3722,7 +3917,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3011235/"
+		"a_link": "https://movie.douban.com/subject/3011235/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "能召回前世的布米叔叔",
 		"movie_name_en": " ลุงบุญมีระลึกชาติ",
@@ -3741,7 +3937,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4280102/"
+		"a_link": "https://movie.douban.com/subject/4280102/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "旺角卡门",
 		"movie_name_en": " 旺角卡門",
@@ -3760,7 +3957,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1304624/"
+		"a_link": "https://movie.douban.com/subject/1304624/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "异形2",
 		"movie_name_en": " Aliens",
@@ -3779,7 +3977,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293792/"
+		"a_link": "https://movie.douban.com/subject/1293792/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "釜山行",
 		"movie_name_en": " 부산행",
@@ -3798,7 +3997,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25986180/"
+		"a_link": "https://movie.douban.com/subject/25986180/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "岁月的童话",
 		"movie_name_en": " おもひでぽろぽろ",
@@ -3817,7 +4017,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291588/"
+		"a_link": "https://movie.douban.com/subject/1291588/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "机器管家 ",
 		"movie_name_en": "Bicentennial Man",
@@ -3836,7 +4037,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292529/"
+		"a_link": "https://movie.douban.com/subject/1292529/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "贴身保镖 第一季 ",
 		"movie_name_en": "Bodyguard Season 1",
@@ -3855,7 +4057,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27163287/"
+		"a_link": "https://movie.douban.com/subject/27163287/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "艾米",
 		"movie_name_en": " Amy",
@@ -3874,7 +4077,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/24532442/"
+		"a_link": "https://movie.douban.com/subject/24532442/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "冷战 ",
 		"movie_name_en": "Zimna wojna",
@@ -3893,7 +4097,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26894602/"
+		"a_link": "https://movie.douban.com/subject/26894602/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "魔弦传说 ",
 		"movie_name_en": "Kubo and the Two Strings",
@@ -3912,7 +4117,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26287884/"
+		"a_link": "https://movie.douban.com/subject/26287884/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "巴里·林登 ",
 		"movie_name_en": "Barry Lyndon",
@@ -3931,7 +4137,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292472/"
+		"a_link": "https://movie.douban.com/subject/1292472/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "牯岭街少年杀人事件",
 		"movie_name_en": " 牯嶺街少年殺人事件",
@@ -3950,7 +4157,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292329/"
+		"a_link": "https://movie.douban.com/subject/1292329/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "迷幻公园 ",
 		"movie_name_en": "Paranoid Park",
@@ -3969,7 +4177,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2002683/"
+		"a_link": "https://movie.douban.com/subject/2002683/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "堤 ",
 		"movie_name_en": "La jetée",
@@ -3988,7 +4197,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1306626/"
+		"a_link": "https://movie.douban.com/subject/1306626/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "失眠症",
 		"movie_name_en": " Insomnia",
@@ -4007,7 +4217,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1307210/"
+		"a_link": "https://movie.douban.com/subject/1307210/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "神奇队长 ",
 		"movie_name_en": "Captain Fantastic",
@@ -4026,7 +4237,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25834735/"
+		"a_link": "https://movie.douban.com/subject/25834735/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "集结号",
 		"movie_name_en": "",
@@ -4045,7 +4257,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1907464/"
+		"a_link": "https://movie.douban.com/subject/1907464/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "小岛惊魂 ",
 		"movie_name_en": "The Others",
@@ -4064,7 +4277,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1301459/"
+		"a_link": "https://movie.douban.com/subject/1301459/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "公主日记 ",
 		"movie_name_en": "The Princess Diaries",
@@ -4083,7 +4297,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1305065/"
+		"a_link": "https://movie.douban.com/subject/1305065/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "无人生还 ",
 		"movie_name_en": "And Then There Were None",
@@ -4102,7 +4317,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25839052/"
+		"a_link": "https://movie.douban.com/subject/25839052/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "好好先生 ",
 		"movie_name_en": "Yes Man",
@@ -4121,7 +4337,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2147854/"
+		"a_link": "https://movie.douban.com/subject/2147854/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "骡子 ",
 		"movie_name_en": "The Mule",
@@ -4140,7 +4357,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30135113/"
+		"a_link": "https://movie.douban.com/subject/30135113/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "风吹麦浪 ",
 		"movie_name_en": "The Wind That Shakes the Barley",
@@ -4159,7 +4377,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1780122/"
+		"a_link": "https://movie.douban.com/subject/1780122/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "神秘河 ",
 		"movie_name_en": "Mystic River",
@@ -4178,7 +4397,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1307748/"
+		"a_link": "https://movie.douban.com/subject/1307748/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "温蒂妮",
 		"movie_name_en": " Undine",
@@ -4197,7 +4417,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/34603816/"
+		"a_link": "https://movie.douban.com/subject/34603816/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "不求上进的玉子",
 		"movie_name_en": " もらとりあむタマ子",
@@ -4216,7 +4437,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25704588/"
+		"a_link": "https://movie.douban.com/subject/25704588/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "毕业会考",
 		"movie_name_en": " Bacalaureat",
@@ -4235,7 +4457,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26340305/"
+		"a_link": "https://movie.douban.com/subject/26340305/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "海啸奇迹 ",
 		"movie_name_en": "Lo imposible",
@@ -4254,7 +4477,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4832825/"
+		"a_link": "https://movie.douban.com/subject/4832825/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "蝴蝶梦",
 		"movie_name_en": " Rebecca",
@@ -4273,7 +4497,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293824/"
+		"a_link": "https://movie.douban.com/subject/1293824/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "天生爱情狂 ",
 		"movie_name_en": "Don Juan DeMarco",
@@ -4292,7 +4517,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1296246/"
+		"a_link": "https://movie.douban.com/subject/1296246/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "机械师 ",
 		"movie_name_en": "The Machinist",
@@ -4311,7 +4537,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1309160/"
+		"a_link": "https://movie.douban.com/subject/1309160/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "一九零零",
 		"movie_name_en": " Novecento",
@@ -4330,7 +4557,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1300956/"
+		"a_link": "https://movie.douban.com/subject/1300956/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "王冠 第一季 ",
 		"movie_name_en": "The Crown Season 1",
@@ -4349,7 +4577,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26427152/"
+		"a_link": "https://movie.douban.com/subject/26427152/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "搏击俱乐部 ",
 		"movie_name_en": "Fight Club",
@@ -4368,7 +4597,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292000/"
+		"a_link": "https://movie.douban.com/subject/1292000/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "破浪 ",
 		"movie_name_en": "Breaking the Waves",
@@ -4387,7 +4617,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292468/"
+		"a_link": "https://movie.douban.com/subject/1292468/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "我在雨中等你 ",
 		"movie_name_en": "The Art of Racing in the Rain",
@@ -4406,7 +4637,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3882427/"
+		"a_link": "https://movie.douban.com/subject/3882427/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "回归",
 		"movie_name_en": " Возвращение",
@@ -4425,7 +4657,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308074/"
+		"a_link": "https://movie.douban.com/subject/1308074/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "离魂异客 ",
 		"movie_name_en": "Dead Man",
@@ -4444,7 +4677,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1303462/"
+		"a_link": "https://movie.douban.com/subject/1303462/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "小姐",
 		"movie_name_en": " 아가씨",
@@ -4463,7 +4697,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25977027/"
+		"a_link": "https://movie.douban.com/subject/25977027/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "生死停留",
 		"movie_name_en": " Stay",
@@ -4482,7 +4717,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1432180/"
+		"a_link": "https://movie.douban.com/subject/1432180/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "真相 ",
 		"movie_name_en": "La vérité",
@@ -4501,7 +4737,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30140107/"
+		"a_link": "https://movie.douban.com/subject/30140107/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "你的名字。",
 		"movie_name_en": " 君の名は。",
@@ -4520,7 +4757,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26683290/"
+		"a_link": "https://movie.douban.com/subject/26683290/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "巴黎小情歌 ",
 		"movie_name_en": "Les chansons d'amour",
@@ -4539,7 +4777,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2056653/"
+		"a_link": "https://movie.douban.com/subject/2056653/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "心理游戏 ",
 		"movie_name_en": "The Game",
@@ -4558,7 +4797,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1296384/"
+		"a_link": "https://movie.douban.com/subject/1296384/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "绿光 ",
 		"movie_name_en": "Le rayon vert",
@@ -4577,7 +4817,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1294039/"
+		"a_link": "https://movie.douban.com/subject/1294039/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "欲望都市 第一季 ",
 		"movie_name_en": "Sex and the City Season 1",
@@ -4596,7 +4837,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1304397/"
+		"a_link": "https://movie.douban.com/subject/1304397/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "女王 ",
 		"movie_name_en": "The Queen",
@@ -4615,7 +4857,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1866264/"
+		"a_link": "https://movie.douban.com/subject/1866264/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "魔术师",
 		"movie_name_en": " L'illusionniste",
@@ -4634,7 +4877,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1921583/"
+		"a_link": "https://movie.douban.com/subject/1921583/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "密阳",
 		"movie_name_en": " 밀양",
@@ -4653,7 +4897,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1853770/"
+		"a_link": "https://movie.douban.com/subject/1853770/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "乔乔的异想世界 ",
 		"movie_name_en": "Jojo Rabbit",
@@ -4672,7 +4917,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30170546/"
+		"a_link": "https://movie.douban.com/subject/30170546/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "傲骨贤妻 第一季 ",
 		"movie_name_en": "The Good Wife Season 1",
@@ -4691,7 +4937,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3754368/"
+		"a_link": "https://movie.douban.com/subject/3754368/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "桃姐",
 		"movie_name_en": "",
@@ -4710,7 +4957,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/5977835/"
+		"a_link": "https://movie.douban.com/subject/5977835/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "三峡好人",
 		"movie_name_en": "",
@@ -4729,7 +4977,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1872133/"
+		"a_link": "https://movie.douban.com/subject/1872133/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "香水 ",
 		"movie_name_en": "Perfume: The Story of a Murderer",
@@ -4748,7 +4997,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1760622/"
+		"a_link": "https://movie.douban.com/subject/1760622/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "赛车总动员",
 		"movie_name_en": " Cars",
@@ -4767,7 +5017,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1428878/"
+		"a_link": "https://movie.douban.com/subject/1428878/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "招魂 ",
 		"movie_name_en": "The Conjuring",
@@ -4786,7 +5037,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3804629/"
+		"a_link": "https://movie.douban.com/subject/3804629/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "摇滚校园 ",
 		"movie_name_en": "The School of Rock",
@@ -4805,7 +5057,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308620/"
+		"a_link": "https://movie.douban.com/subject/1308620/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "特别响，非常近 ",
 		"movie_name_en": "Extremely Loud and Incredibly Close",
@@ -4824,7 +5077,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3078514/"
+		"a_link": "https://movie.douban.com/subject/3078514/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "失常",
 		"movie_name_en": " Anomalisa",
@@ -4843,7 +5097,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/19955769/"
+		"a_link": "https://movie.douban.com/subject/19955769/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "冬眠 ",
 		"movie_name_en": "Kış Uykusu",
@@ -4862,7 +5117,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/21770915/"
+		"a_link": "https://movie.douban.com/subject/21770915/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "母亲",
 		"movie_name_en": " 마더",
@@ -4881,7 +5137,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3036460/"
+		"a_link": "https://movie.douban.com/subject/3036460/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "蜘蛛侠：平行宇宙 ",
 		"movie_name_en": "Spider-Man: Into the Spider-Verse",
@@ -4900,7 +5157,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26374197/"
+		"a_link": "https://movie.douban.com/subject/26374197/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "升级",
 		"movie_name_en": " Upgrade",
@@ -4919,7 +5177,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27093707/"
+		"a_link": "https://movie.douban.com/subject/27093707/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "从海底出击 ",
 		"movie_name_en": "Das Boot",
@@ -4938,7 +5197,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293909/"
+		"a_link": "https://movie.douban.com/subject/1293909/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "战长沙",
 		"movie_name_en": "",
@@ -4957,7 +5217,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/20258941/"
+		"a_link": "https://movie.douban.com/subject/20258941/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "金刚狼3：殊死一战",
 		"movie_name_en": " Logan",
@@ -4976,7 +5237,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25765735/"
+		"a_link": "https://movie.douban.com/subject/25765735/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "清洁",
 		"movie_name_en": " Clean",
@@ -4995,7 +5257,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1310153/"
+		"a_link": "https://movie.douban.com/subject/1310153/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "隐秘的生活 ",
 		"movie_name_en": "A Hidden Life",
@@ -5014,7 +5277,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26823502/"
+		"a_link": "https://movie.douban.com/subject/26823502/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "熔炉",
 		"movie_name_en": " 도가니",
@@ -5033,7 +5297,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/5912992/"
+		"a_link": "https://movie.douban.com/subject/5912992/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "比利·林恩的中场战事 ",
 		"movie_name_en": "Billy Lynn's Long Halftime Walk",
@@ -5052,7 +5317,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25983044/"
+		"a_link": "https://movie.douban.com/subject/25983044/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "推销员",
 		"movie_name_en": " فروشنده",
@@ -5071,7 +5337,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26679552/"
+		"a_link": "https://movie.douban.com/subject/26679552/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "吾栖之肤 ",
 		"movie_name_en": "La piel que habito",
@@ -5090,7 +5357,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2997052/"
+		"a_link": "https://movie.douban.com/subject/2997052/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "冒牌天神 ",
 		"movie_name_en": "Bruce Almighty",
@@ -5109,7 +5377,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297018/"
+		"a_link": "https://movie.douban.com/subject/1297018/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "摩托日记 ",
 		"movie_name_en": "Diarios de motocicleta",
@@ -5128,7 +5397,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1309015/"
+		"a_link": "https://movie.douban.com/subject/1309015/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "",
 		"movie_name_en": "1",
@@ -5147,7 +5417,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308599/"
+		"a_link": "https://movie.douban.com/subject/1308599/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "红色沙漠 ",
 		"movie_name_en": "Il deserto rosso",
@@ -5166,7 +5437,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1299261/"
+		"a_link": "https://movie.douban.com/subject/1299261/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "奇迹 ",
 		"movie_name_en": "Le meraviglie",
@@ -5185,7 +5457,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25733490/"
+		"a_link": "https://movie.douban.com/subject/25733490/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "涉足荒野",
 		"movie_name_en": " Wild",
@@ -5204,7 +5477,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/21345845/"
+		"a_link": "https://movie.douban.com/subject/21345845/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "尽善尽美 ",
 		"movie_name_en": "As Good as It Gets",
@@ -5223,7 +5497,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293917/"
+		"a_link": "https://movie.douban.com/subject/1293917/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "利维坦",
 		"movie_name_en": " Левиафан",
@@ -5242,7 +5517,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/24525283/"
+		"a_link": "https://movie.douban.com/subject/24525283/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "流浪猫鲍勃 ",
 		"movie_name_en": "A Street Cat Named Bob",
@@ -5261,7 +5537,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26685451/"
+		"a_link": "https://movie.douban.com/subject/26685451/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "K歌情人 ",
 		"movie_name_en": "Music and Lyrics",
@@ -5280,7 +5557,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1937401/"
+		"a_link": "https://movie.douban.com/subject/1937401/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "无间道风云 ",
 		"movie_name_en": "The Departed",
@@ -5299,7 +5577,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1315316/"
+		"a_link": "https://movie.douban.com/subject/1315316/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "黑暗侵袭 ",
 		"movie_name_en": "The Descent",
@@ -5318,7 +5597,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1437109/"
+		"a_link": "https://movie.douban.com/subject/1437109/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "三只猴子 ",
 		"movie_name_en": "Üç maymun",
@@ -5337,7 +5617,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3077840/"
+		"a_link": "https://movie.douban.com/subject/3077840/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "风柜来的人",
 		"movie_name_en": " 風櫃來的人",
@@ -5356,7 +5637,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1299436/"
+		"a_link": "https://movie.douban.com/subject/1299436/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "凯文怎么了 ",
 		"movie_name_en": "We Need to Talk About Kevin",
@@ -5375,7 +5657,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3097445/"
+		"a_link": "https://movie.douban.com/subject/3097445/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "摄影机不要停！",
 		"movie_name_en": " カメラを止めるな！",
@@ -5394,7 +5677,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30234315/"
+		"a_link": "https://movie.douban.com/subject/30234315/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "穆赫兰道 ",
 		"movie_name_en": "Mulholland Dr.",
@@ -5413,7 +5697,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292217/"
+		"a_link": "https://movie.douban.com/subject/1292217/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "盛夏光年",
 		"movie_name_en": "",
@@ -5432,7 +5717,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1914831/"
+		"a_link": "https://movie.douban.com/subject/1914831/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "别告诉她 ",
 		"movie_name_en": "The Farewell",
@@ -5451,7 +5737,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30390144/"
+		"a_link": "https://movie.douban.com/subject/30390144/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "裂缝",
 		"movie_name_en": " Cracks",
@@ -5470,7 +5757,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3007817/"
+		"a_link": "https://movie.douban.com/subject/3007817/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "新桥恋人 ",
 		"movie_name_en": "Les amants du Pont-Neuf",
@@ -5489,7 +5777,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291559/"
+		"a_link": "https://movie.douban.com/subject/1291559/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "对不起，我们错过了你 ",
 		"movie_name_en": "Sorry We Missed You",
@@ -5508,7 +5797,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/30209084/"
+		"a_link": "https://movie.douban.com/subject/30209084/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "柔道龙虎榜",
 		"movie_name_en": "",
@@ -5527,7 +5817,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308796/"
+		"a_link": "https://movie.douban.com/subject/1308796/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "猴子",
 		"movie_name_en": " Monos",
@@ -5546,7 +5837,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27036366/"
+		"a_link": "https://movie.douban.com/subject/27036366/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "致命魔术 ",
 		"movie_name_en": "The Prestige",
@@ -5565,7 +5857,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1780330/"
+		"a_link": "https://movie.douban.com/subject/1780330/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "这就是英格兰 ",
 		"movie_name_en": "This Is England",
@@ -5584,7 +5877,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1806543/"
+		"a_link": "https://movie.douban.com/subject/1806543/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "国家公敌 ",
 		"movie_name_en": "Enemy of the State",
@@ -5603,7 +5897,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297544/"
+		"a_link": "https://movie.douban.com/subject/1297544/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "冰风暴 ",
 		"movie_name_en": "The Ice Storm",
@@ -5622,7 +5917,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1300930/"
+		"a_link": "https://movie.douban.com/subject/1300930/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "虫虫危机 ",
 		"movie_name_en": "A Bug's Life",
@@ -5641,7 +5937,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291573/"
+		"a_link": "https://movie.douban.com/subject/1291573/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "饥饿站台 ",
 		"movie_name_en": "El hoyo",
@@ -5660,7 +5957,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/34805219/"
+		"a_link": "https://movie.douban.com/subject/34805219/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "K星异客",
 		"movie_name_en": " K-PAX",
@@ -5679,7 +5977,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1306607/"
+		"a_link": "https://movie.douban.com/subject/1306607/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "你那边几点",
 		"movie_name_en": " 你那邊幾點",
@@ -5698,7 +5997,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1294540/"
+		"a_link": "https://movie.douban.com/subject/1294540/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "蒙娜丽莎的微笑 ",
 		"movie_name_en": "Mona Lisa Smile",
@@ -5717,7 +6017,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1303010/"
+		"a_link": "https://movie.douban.com/subject/1303010/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "狂怒",
 		"movie_name_en": " Fury",
@@ -5736,7 +6037,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/23331914/"
+		"a_link": "https://movie.douban.com/subject/23331914/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "初学者",
 		"movie_name_en": " Beginners",
@@ -5755,7 +6057,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4109909/"
+		"a_link": "https://movie.douban.com/subject/4109909/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "圣诞夜惊魂 ",
 		"movie_name_en": "The Nightmare Before Christmas",
@@ -5774,7 +6077,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297131/"
+		"a_link": "https://movie.douban.com/subject/1297131/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "神秘巨星 ",
 		"movie_name_en": "Secret Superstar",
@@ -5793,7 +6097,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26942674/"
+		"a_link": "https://movie.douban.com/subject/26942674/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "触不可及",
 		"movie_name_en": " Intouchables",
@@ -5812,7 +6117,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/6786002/"
+		"a_link": "https://movie.douban.com/subject/6786002/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "魔女嘉莉",
 		"movie_name_en": " Carrie",
@@ -5831,7 +6137,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292664/"
+		"a_link": "https://movie.douban.com/subject/1292664/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "血战钢锯岭 ",
 		"movie_name_en": "Hacksaw Ridge",
@@ -5850,7 +6157,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26325320/"
+		"a_link": "https://movie.douban.com/subject/26325320/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "心灵猎人 第一季 ",
 		"movie_name_en": "Mindhunter Season 1",
@@ -5869,7 +6177,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26691486/"
+		"a_link": "https://movie.douban.com/subject/26691486/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "私恋失调 ",
 		"movie_name_en": "Punch-Drunk Love",
@@ -5888,7 +6197,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1300211/"
+		"a_link": "https://movie.douban.com/subject/1300211/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "西伯利亚的理发师 ",
 		"movie_name_en": "Сибирский цирюльник",
@@ -5907,7 +6217,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1303001/"
+		"a_link": "https://movie.douban.com/subject/1303001/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "惊曝内幕 ",
 		"movie_name_en": "The Insider",
@@ -5926,7 +6237,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292660/"
+		"a_link": "https://movie.douban.com/subject/1292660/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "美错",
 		"movie_name_en": " Biutiful",
@@ -5945,7 +6257,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3008672/"
+		"a_link": "https://movie.douban.com/subject/3008672/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "叶问",
 		"movie_name_en": " 葉問",
@@ -5964,7 +6277,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3041806/"
+		"a_link": "https://movie.douban.com/subject/3041806/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "海滩 ",
 		"movie_name_en": "The Beach",
@@ -5983,7 +6297,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293019/"
+		"a_link": "https://movie.douban.com/subject/1293019/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "黑皮书",
 		"movie_name_en": " Zwartboek",
@@ -6002,7 +6317,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1858802/"
+		"a_link": "https://movie.douban.com/subject/1858802/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "养家之人 ",
 		"movie_name_en": "The Breadwinner",
@@ -6021,7 +6337,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26346327/"
+		"a_link": "https://movie.douban.com/subject/26346327/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "海王",
 		"movie_name_en": " Aquaman",
@@ -6040,7 +6357,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3878007/"
+		"a_link": "https://movie.douban.com/subject/3878007/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "地久天长",
 		"movie_name_en": "",
@@ -6059,7 +6377,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26715636/"
+		"a_link": "https://movie.douban.com/subject/26715636/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "追风筝的人 ",
 		"movie_name_en": "The Kite Runner",
@@ -6078,7 +6397,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1937502/"
+		"a_link": "https://movie.douban.com/subject/1937502/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "喜剧之王 ",
 		"movie_name_en": "The King of Comedy",
@@ -6097,7 +6417,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292772/"
+		"a_link": "https://movie.douban.com/subject/1292772/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "前目的地",
 		"movie_name_en": " Predestination",
@@ -6116,7 +6437,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/20278505/"
+		"a_link": "https://movie.douban.com/subject/20278505/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "亲切的金子 ",
 		"movie_name_en": "친절한 금자씨",
@@ -6135,7 +6457,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1412579/"
+		"a_link": "https://movie.douban.com/subject/1412579/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "",
 		"movie_name_en": "英",
@@ -6154,7 +6477,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1307853/"
+		"a_link": "https://movie.douban.com/subject/1307853/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "上帝之国 ",
 		"movie_name_en": "God's Own Country",
@@ -6173,7 +6497,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26781703/"
+		"a_link": "https://movie.douban.com/subject/26781703/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "戴珍珠耳环的少女 ",
 		"movie_name_en": "Girl with a Pearl Earring",
@@ -6192,7 +6517,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291836/"
+		"a_link": "https://movie.douban.com/subject/1291836/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "豪斯医生 第一季 ",
 		"movie_name_en": "House M.D. Season 1",
@@ -6211,7 +6537,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1442129/"
+		"a_link": "https://movie.douban.com/subject/1442129/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "黑猫白猫 ",
 		"movie_name_en": "Црна мачка, бели мачор",
@@ -6230,7 +6557,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1293236/"
+		"a_link": "https://movie.douban.com/subject/1293236/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "监护风云 ",
 		"movie_name_en": "Jusqu'à la garde",
@@ -6249,7 +6577,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26995532/"
+		"a_link": "https://movie.douban.com/subject/26995532/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "坏血 ",
 		"movie_name_en": "Mauvais sang",
@@ -6268,7 +6597,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1301678/"
+		"a_link": "https://movie.douban.com/subject/1301678/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "电视台风云",
 		"movie_name_en": " Network",
@@ -6287,7 +6617,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1297531/"
+		"a_link": "https://movie.douban.com/subject/1297531/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "你妈妈也一样 ",
 		"movie_name_en": "Y tu mamá también",
@@ -6306,7 +6637,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1303333/"
+		"a_link": "https://movie.douban.com/subject/1303333/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "布鲁克林",
 		"movie_name_en": " Brooklyn",
@@ -6325,7 +6657,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/10741220/"
+		"a_link": "https://movie.douban.com/subject/10741220/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "火柴人 ",
 		"movie_name_en": "Matchstick Men",
@@ -6344,7 +6677,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1307542/"
+		"a_link": "https://movie.douban.com/subject/1307542/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "子弹横飞百老汇 ",
 		"movie_name_en": "Bullets Over Broadway",
@@ -6363,7 +6697,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1295452/"
+		"a_link": "https://movie.douban.com/subject/1295452/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "大梦想家 ",
 		"movie_name_en": "Saving Mr. Banks",
@@ -6382,7 +6717,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/10756518/"
+		"a_link": "https://movie.douban.com/subject/10756518/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "我是山姆 ",
 		"movie_name_en": "I Am Sam",
@@ -6401,7 +6737,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1306861/"
+		"a_link": "https://movie.douban.com/subject/1306861/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "漫长的婚约 ",
 		"movie_name_en": "Un long dimanche de fiançailles",
@@ -6420,7 +6757,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292234/"
+		"a_link": "https://movie.douban.com/subject/1292234/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "越狱 第一季 ",
 		"movie_name_en": "Prison Break Season 1",
@@ -6439,7 +6777,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1419297/"
+		"a_link": "https://movie.douban.com/subject/1419297/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "英国病人 ",
 		"movie_name_en": "The English Patient",
@@ -6458,7 +6797,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291853/"
+		"a_link": "https://movie.douban.com/subject/1291853/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "推手",
 		"movie_name_en": "",
@@ -6477,7 +6817,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1306939/"
+		"a_link": "https://movie.douban.com/subject/1306939/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "云上的日子 ",
 		"movie_name_en": "Al di là delle nuvole",
@@ -6496,7 +6837,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291558/"
+		"a_link": "https://movie.douban.com/subject/1291558/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "隐藏人物 ",
 		"movie_name_en": "Hidden Figures",
@@ -6515,7 +6857,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26615208/"
+		"a_link": "https://movie.douban.com/subject/26615208/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "超级大坏蛋",
 		"movie_name_en": " Megamind",
@@ -6534,7 +6877,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2303163/"
+		"a_link": "https://movie.douban.com/subject/2303163/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "柯明斯基理论 第一季 ",
 		"movie_name_en": "The Kominsky Method Season 1",
@@ -6553,7 +6897,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/27113189/"
+		"a_link": "https://movie.douban.com/subject/27113189/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "早安",
 		"movie_name_en": " お早よう",
@@ -6572,7 +6917,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1298063/"
+		"a_link": "https://movie.douban.com/subject/1298063/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "南京！南京！",
 		"movie_name_en": "",
@@ -6591,7 +6937,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2294568/"
+		"a_link": "https://movie.douban.com/subject/2294568/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "香草的天空 ",
 		"movie_name_en": "Vanilla Sky",
@@ -6610,7 +6957,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1299054/"
+		"a_link": "https://movie.douban.com/subject/1299054/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "当幸福来敲门 ",
 		"movie_name_en": "The Pursuit of Happyness",
@@ -6629,7 +6977,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1849031/"
+		"a_link": "https://movie.douban.com/subject/1849031/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "罗曼蒂克消亡史",
 		"movie_name_en": "",
@@ -6648,7 +6997,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/24751763/"
+		"a_link": "https://movie.douban.com/subject/24751763/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "破碎的拥抱 ",
 		"movie_name_en": "Los abrazos rotos",
@@ -6667,7 +7017,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2059321/"
+		"a_link": "https://movie.douban.com/subject/2059321/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "黑鹰坠落 ",
 		"movie_name_en": "Black Hawk Down",
@@ -6686,7 +7037,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1291824/"
+		"a_link": "https://movie.douban.com/subject/1291824/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "发条橙 ",
 		"movie_name_en": "A Clockwork Orange",
@@ -6705,7 +7057,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292233/"
+		"a_link": "https://movie.douban.com/subject/1292233/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "宛如阿修罗",
 		"movie_name_en": " 阿修羅のごとく",
@@ -6724,7 +7077,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1292340/"
+		"a_link": "https://movie.douban.com/subject/1292340/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "龙纹身的女孩 ",
 		"movie_name_en": "The Girl with the Dragon Tattoo",
@@ -6743,7 +7097,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/4206357/"
+		"a_link": "https://movie.douban.com/subject/4206357/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "赴汤蹈火 ",
 		"movie_name_en": "Hell or High Water",
@@ -6762,7 +7117,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26389148/"
+		"a_link": "https://movie.douban.com/subject/26389148/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "摔跤吧！爸爸",
 		"movie_name_en": " Dangal",
@@ -6781,7 +7137,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26387939/"
+		"a_link": "https://movie.douban.com/subject/26387939/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "孩子们都很好 ",
 		"movie_name_en": "The Kids Are All Right",
@@ -6800,7 +7157,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3569969/"
+		"a_link": "https://movie.douban.com/subject/3569969/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "天才少女",
 		"movie_name_en": " Gifted",
@@ -6819,7 +7177,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26593587/"
+		"a_link": "https://movie.douban.com/subject/26593587/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "我，机器人 ",
 		"movie_name_en": "I, Robot",
@@ -6838,7 +7197,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1308843/"
+		"a_link": "https://movie.douban.com/subject/1308843/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "毒枭 第一季 ",
 		"movie_name_en": "Narcos Season 1",
@@ -6857,7 +7217,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/25850640/"
+		"a_link": "https://movie.douban.com/subject/25850640/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "魔幻时刻",
 		"movie_name_en": " ザ・マジックアワー",
@@ -6876,7 +7237,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/2157507/"
+		"a_link": "https://movie.douban.com/subject/2157507/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "兔子洞 ",
 		"movie_name_en": "Rabbit Hole",
@@ -6895,7 +7257,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/3641108/"
+		"a_link": "https://movie.douban.com/subject/3641108/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "大病 ",
 		"movie_name_en": "The Big Sick",
@@ -6914,7 +7277,8 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/26884892/"
+		"a_link": "https://movie.douban.com/subject/26884892/",
+		"coverImage_type": ""
 	}, {
 		"movie_name_ch": "土拨鼠之日 ",
 		"movie_name_en": "Groundhog Day",
@@ -6933,8 +7297,10 @@ export let data = [
 		"classic_lines_ch": "",
 		"classic_lines_en": "",
 		"commemorate": "",
-		"a_link": "https://movie.douban.com/subject/1300613/"
-	}]
+		"a_link": "https://movie.douban.com/subject/1300613/",
+		"coverImage_type": ""
+	}
+]
 
 //验证是否是中文
 var regStr_ch = new RegExp("[\u4E00-\u9FA5]+");
@@ -6972,6 +7338,7 @@ function handleData() {
 			movie_name_en,
 			coverImage_local: `${item.day}.jpg`,
 			coverImage_OSS: "",
+			coverImage_type: "",//vertical 纵图，horizontal横图
 		}
 	})
 	console.log(JSON.stringify(newData))
