@@ -49,10 +49,16 @@ const pages = [
     title: '豆瓣日历'
   },
   {
-    name: 'ems',
-    template: 'ems/ems.html',
-    entry: 'ems/ems.js',
-    title: '快递查询'
+    name: 'jobs',
+    template: 'jobs/jobs.html',
+    entry: 'jobs/jobs.js',
+    title: '招聘'
+  },
+  {
+    name: 'timeFunction',
+    template: 'timeFunction/timeFunction.html',
+    entry: 'timeFunction/timeFunction.js',
+    title: '时间日期功能函数'
   },
 ]
 

@@ -554,8 +554,8 @@ export let data = [
 		"show_year": "2012",
 		"star": 7.5,
 		"director": "马克∙安德鲁斯/布兰达∙查普曼/史蒂夫·普切尔",
-		"classic_lines_ch": "",
-		"classic_lines_en": "",
+		"classic_lines_ch": "“命运就掌握在我们手里，只有勇敢的人才能领会”",
+		"classic_lines_en": "“Our fate lives within us, you only have to be brave enough to see it.”",
 		"commemorate": "",
 		"a_link": "https://movie.douban.com/subject/3036473/",
 		"coverImage_type": ""

@@ -106,6 +106,8 @@ $(function () {
 		$(".movie-info .star").text(`豆瓣评分 ${dataItem.star}`)
 		$(".movie-info .tag").text(`${dataItem.show_year} | ${dataItem.country} | ${dataItem.tag.split('/').join(" | ")}`)
 		$(".movie-info .director").text(`${dataItem.director} 导演`)
+		$(".classic_lines_ch").text(dataItem.classic_lines_ch)
+		$(".classic_lines_en").text(dataItem.classic_lines_en)
 	}
 	
 });

@@ -6,7 +6,7 @@ module.exports = {
 		autoOpenBrower: false,//自动打开浏览器
 		host: "0.0.0.0",
 		overlay: {warnings: false, errors: true},
-		openPage: 'douCalendar.html',
+		openPage: 'jobs.html',
 		publicPath: '/'
 	},
 	build: {

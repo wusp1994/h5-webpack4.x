@@ -1,0 +1,19 @@
+@import "../../assets/css/reset.css";
+@import "../../assets/css/button.css";
+input{
+  border: 1px solid #2A2E33;
+}
+
+.list{
+  padding: 10px;
+  .item{
+    .title{
+      font-weight: bolder;
+      margin-bottom: 10px;
+      line-height: 1.5;
+      .order{
+        font-weight: inherit;
+      }
+    }
+  }
+}

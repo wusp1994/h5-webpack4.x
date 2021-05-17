@@ -47,55 +47,64 @@ html {
   //  //scale-down:保持原有尺寸比例,如果容器尺寸大于图片内容尺寸，保持图片的原有尺寸，不会放大失真；容器尺寸小于图片内容尺寸，用法跟contain一样。
   //}
 
-  .info-box {
-    $text-margin: 6px;
+  .text-box{
     position: absolute;
     bottom: 0;
     left: 0;
     padding: 18px 10px;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    color: #d9d9d9;
-    font-size: 12px;
-
-    .item {
-      div, a, b {
-        color: #FFFFFF;
-      }
-    }
-
-    .calendar-txt {
-      color: inherit;
-      flex-basis: 300px;
-
-      .day {
-        font-size: 72px;
-      }
-
-      .date-en {
-        margin-top: $text-margin;
-      }
-
-      .date-ch {
-        margin-top: $text-margin;
-      }
-    }
-
-    .movie-info {
-      color: inherit;
+    .info-box {
+      $text-margin: 6px;
+      width: 100%;
       display: flex;
-      align-content: flex-end;
-      flex-wrap: wrap;
-      //margin-left: 10px;
-      div {
-        width: 100%;
-        margin-top: $text-margin;
+      justify-content: space-between;
+      color: #d9d9d9;
+      font-size: 12px;
+      .item {
+        div, a, b {
+          color: #FFFFFF;
+        }
+      }
+
+      .calendar-txt {
+        color: inherit;
+        flex-basis: 300px;
+
+        .day {
+          font-size: 72px;
+        }
+
+        .date-en {
+          margin-top: $text-margin;
+        }
+
+        .date-ch {
+          margin-top: $text-margin;
+        }
+      }
+
+      .movie-info {
+        color: inherit;
+        display: flex;
+        align-content: flex-end;
+        flex-wrap: wrap;
+        //margin-left: 10px;
+        div {
+          width: 100%;
+          margin-top: $text-margin;
+        }
       }
     }
-
+    .lines{
+      color: #FFFFFF;
+      margin-bottom: 20px;
+      div{
+        color: inherit;
+        font-size: 14px;
+        line-height: 1.5;
+        text-align: right;
+      }
+    }
   }
-
 }
 
 
